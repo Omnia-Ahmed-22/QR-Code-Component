@@ -7,4 +7,5 @@ This project displays a QR code card with a clean and modern design-great for le
 # Acknowledgements 
 
 . Inspired by Frontend Mentor's QR code component challenge
+
 . Built with ❤️ by Omnia Ahmed
